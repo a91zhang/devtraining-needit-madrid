@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Report name: NeedIt Requests by Type">cf7f2b02dbd87b00a7b77bfdae9619eb</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-22 16:56:04</sys_created_on>
+        <sys_id>dd4d171adbd0bb00a7b77bfdae961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cf7f2b02dbd87b00a7b77bfdae9619eb</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_dd4d171adbd0bb00a7b77bfdae961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-22 16:56:04</sys_updated_on>
+        <user_id display_value="Performance Analytics Security Center User">69b4fb79db403300f2c979daae9619e3</user_id>
+    </sys_report_users_groups>
+</record_update>
